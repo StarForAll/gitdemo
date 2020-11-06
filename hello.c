@@ -6,3 +6,4 @@ int main(int arg, char* argv[]){
     printf("develop branch created by SCM.\n");
 
 }
+void function_dev02(){}
